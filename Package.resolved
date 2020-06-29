@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CodableCSV",
+        "repositoryURL": "https://github.com/dehesa/CodableCSV.git",
+        "state": {
+          "branch": null,
+          "revision": "4e2c0ca1eff292c0759be0cfa113e64bb931807d",
+          "version": "0.6.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
